@@ -5,6 +5,6 @@ import java.util.regex.Pattern;
 
 public class Practice {
     public static void main(String[] args) {
-        System.out.println("master");
+        System.out.println("bug fix");
     }
 }
