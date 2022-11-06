@@ -10,9 +10,6 @@ public class CamelCase {
     //    return Pattern.compile("[-|_](.)").matcher(s).replaceAll(r -> r.group(1).toUpperCase());
     //  }
 
-
-
-
     public static String toCamelCase(String s) {
         if (s != null) {
             String result = "";
