@@ -23,6 +23,7 @@ public class CamelCase {
                 }
             }
 
+
             switch (sign) {
                 case '-':
                     String[] strArr = s.split("-");
