@@ -11,7 +11,7 @@ public class CamelCase {
     //  }
 
 
-    
+
 
     public static String toCamelCase(String s) {
         if (s != null) {
